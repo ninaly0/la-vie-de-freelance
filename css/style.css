@@ -315,7 +315,6 @@ ul li:before{
 
 .details h2{
     max-width:576px;
-    height:84px;
     font-size:var(--h2-font);
     text-align:center;
     margin:auto;
