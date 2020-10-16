@@ -325,7 +325,6 @@ ul li:before{
     display:flex;
     flex-wrap:wrap;
     justify-content:center;
-    margin-top:60px;
 }
 
 .first_text_block{
